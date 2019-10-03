@@ -1,5 +1,20 @@
 /* Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
+	.container{
+		width: 80%;
+	}
+	.col{
+		width: 33.33%;
+	}
+	.col-sm-8{
+		width: 66.67%;
+	}
+	.col-sm-4{
+		width: 33.33%;
+	}
+	.col-sm{
+		width: 33.33%;
+	}
 
 }
 
